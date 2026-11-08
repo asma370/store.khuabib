@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Winged Skull Tee",
+    "price": 48,
+    "priceFormatted": "€48",
+    "category": "Tees",
+    "description": "Oversized fit graphic t-shirt featuring washed discharge print of the Khubaib winged skull insignia on 280 GSM pre-shrunk vintage black jersey.",
+    "composition": "100% Combed Cotton, 280 GSM",
+    "stock": { "XS": 4, "S": 7, "M": 12, "L": 5, "XL": 3, "XXL": 1 },
+    "featured": true,
+    "polygonIndex": 0
+  },
+  {
+    "id": 1,
+    "name": "Heavy Blank Tee — Black",
+    "price": 38,
+    "priceFormatted": "€38",
+    "category": "Tees",
+    "description": "Essential boxy streetwear blank tee with high ribbed collar, dropped shoulders, and subtle tonal embroidery on back neck.",
+    "composition": "100% Organic Heavy Cotton, 300 GSM",
+    "stock": { "XS": 10, "S": 15, "M": 20, "L": 18, "XL": 8, "XXL": 5 },
+    "featured": false,
+    "polygonIndex": 1
+  },
+  {
+    "id": 2,
+    "name": "Heavy Blank Tee — White",
+    "price": 38,
+    "priceFormatted": "€38",
+    "category": "Tees",
+    "description": "Crisp optic white heavyweight tee. Reinforced twin-needle stitching at hem and sleeves. Heavy drop shoulder construction.",
+    "composition": "100% Organic Heavy Cotton, 300 GSM",
+    "stock": { "XS": 8, "S": 12, "M": 16, "L": 14, "XL": 6, "XXL": 3 },
+    "featured": false,
+    "polygonIndex": 2
+  },
+  {
+    "id": 3,
+    "name": "Khubaib Longsleeve",
+    "price": 55,
+    "priceFormatted": "€55",
+    "category": "Longsleeves",
+    "description": "Signature gothic blackletter logo longsleeve with rib knit cuffs and contrast sleeve screenprints. Garment dyed and stone washed.",
+    "composition": "100% Ring-spun Heavy Cotton, 260 GSM",
+    "stock": { "XS": 2, "S": 5, "M": 9, "L": 4, "XL": 2, "XXL": 0 },
+    "featured": true,
+    "polygonIndex": 3
+  },
+  {
+    "id": 4,
+    "name": "Rose & Chain Tee",
+    "price": 52,
+    "priceFormatted": "€52",
+    "category": "Tees",
+    "description": "Intricate gothic thorny rose and industrial chain motif printed with metallic silver foil overlay and water-based ink.",
+    "composition": "100% Compact Cotton, 280 GSM",
+    "stock": { "XS": 3, "S": 6, "M": 10, "L": 7, "XL": 4, "XXL": 2 },
+    "featured": false,
+    "polygonIndex": 4
+  },
+  {
+    "id": 5,
+    "name": "Varsity Jacket",
+    "price": 240,
+    "priceFormatted": "€240",
+    "category": "Jackets",
+    "description": "Heavy melton wool body with genuine tumbled full-grain leather sleeves, custom engraved snap buttons, chenille gothic K embroidery, and quilted satin lining.",
+    "composition": "80% Melton Wool, 20% Polyamide, 100% Full-Grain Cowhide",
+    "stock": { "XS": 1, "S": 3, "M": 4, "L": 2, "XL": 1, "XXL": 0 },
+    "featured": true,
+    "polygonIndex": 5
+  },
+  {
+    "id": 6,
+    "name": "No Restocks Longsleeve",
+    "price": 58,
+    "priceFormatted": "€58",
+    "category": "Longsleeves",
+    "description": "Heavyweight crewneck longsleeve with 'NO RESTOCKS' bold typogram on chest and back spine. Acid washed charcoal finish.",
+    "composition": "100% Heavy Cotton, 290 GSM",
+    "stock": { "XS": 4, "S": 8, "M": 11, "L": 6, "XL": 3, "XXL": 1 },
+    "featured": false,
+    "polygonIndex": 6
+  },
+  {
+    "id": 7,
+    "name": "Arch Logo Hoodie",
+    "price": 95,
+    "priceFormatted": "€95",
+    "category": "Hoodies",
+    "description": "Oversized double-layered crossover hood hoodie. 460 GSM brushed loopback fleece with puff print collegiate arch branding across chest.",
+    "composition": "100% Loopback French Terry Cotton, 460 GSM",
+    "stock": { "XS": 2, "S": 6, "M": 10, "L": 8, "XL": 4, "XXL": 2 },
+    "featured": true,
+    "polygonIndex": 7
+  },
+  {
+    "id": 8,
+    "name": "Barbed Heart Tee",
+    "price": 48,
+    "priceFormatted": "€48",
+    "category": "Tees",
+    "description": "Subtle front chest graphic with large distressed back print depicting barbed heart intertwined with barbed wire. Raw cut collar aesthetic.",
+    "composition": "100% Premium Cotton, 270 GSM",
+    "stock": { "XS": 5, "S": 9, "M": 14, "L": 7, "XL": 3, "XXL": 1 },
+    "featured": false,
+    "polygonIndex": 8
+  },
+  {
+    "id": 9,
+    "name": "Black Zip Hoodie",
+    "price": 98,
+    "priceFormatted": "€98",
+    "category": "Hoodies",
+    "description": "Heavyweight two-way chunky matte black zipper hoodie. Deep kangaroo pockets, custom metal aglets, and hidden stash pocket at inner ribbing.",
+    "composition": "100% Heavyweight French Terry, 480 GSM",
+    "stock": { "XS": 3, "S": 5, "M": 8, "L": 5, "XL": 2, "XXL": 1 },
+    "featured": true,
+    "polygonIndex": 9
+  }
+]
